@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="description">Opening and viewing documents in Android applications are very interesting and a must to have in every application. You can open any application present on your mobile and you will find that every application contains documents in some or the other way. And among these documents, the most popular and widely used document format is the PDF format.
+
+PDF or Portable Document Format is a file format that has captured all the elements of a printed document. This is the most used document format. For example, in the Paytm application, you get your monthly expenses in the form of PDF document. So, if you also want to display some kind of document in your application, then you can open this PDF format document.
+
+So, welcome to MindOrks and in this tutorial, we will learn how to open a PDF file in Android programmatically. We will cover the below topics in this tutorial:
+
+Project setup
+Ways of opening PDF in Android
+Making UI and adding Activities for the project
+Opening a PDF file using WebView
+Opening a PDF file using AndoirdPdfviewer library
+Project source code and What next?</string>
+    <string name="settings">Settings</string>
+    <string name="download">Download</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="writer_s_name">စာရေးသူ နာမည်</string>
+    <string name="writer_s_history">စာရေးသူ အတ္ထုပတ္တိ</string>
+    <string name="produce_detail">စာအုပ်ထုတ်ဝေသည့် ခုနှစ်</string>
+    <string name="book_type">စာအုပ်အမျိုးအစား</string>
+    <string name="other_books">တခြား စာအုပ်များ</string>
+    <string name="book_name">စာအုပ် နာမည်</string>
+</resources>
